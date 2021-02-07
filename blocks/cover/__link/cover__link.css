@@ -6,14 +6,13 @@
   min-height: 740px;
   height: 100%;
   width: 100%;
-  background: #2A2C2F;
   background-color: rgba(42, 44, 47, 0.3);
   text-decoration: none;
 }
   
 .cover__link:hover {
   background-color: rgba(42, 44, 47, 0.8);
-  transition: background-color 0.5s linear 0s
+  transition: background-color 0.5s linear 0s;
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
